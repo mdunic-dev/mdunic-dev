@@ -1,0 +1,18 @@
+ Bok 👋
+
+Ja sam Mario.
+
+## 🚀 Tehnologije
+- Linux
+- Network
+- CRM
+- Automation
+- SysAdmin
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=tokyonight)
+
+## 📫 Kontakt
+- LinkedIn: https://hr.linkedin.com/in/mario-duni%C4%87-3792a1226
+- Email: mdunic@gmail.com
