@@ -11,7 +11,7 @@ Ja sam Mario.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TVOJ_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mdunic-dev&show_icons=true&theme=radical)
 
 ## 📫 Kontakt
 - LinkedIn: https://hr.linkedin.com/in/mario-duni%C4%87-3792a1226
