@@ -16,5 +16,5 @@ Work in Progress...
 -->
 
 ## 📫 Kontakt
-- LinkedIn: https://hr.linkedin.com/in/mario-duni%C4%87-3792a1226
-- Email: mdunic@gmail.com
+- <a href="https://hr.linkedin.com/in/mario-duni%C4%87-3792a1226">LinkedIn</a>
+- <a href="mailto:mdunic@gmail.com">Email</a>
